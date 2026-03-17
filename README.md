@@ -64,6 +64,9 @@ this project demonstates
 - And Basic logging systems
 
 
+This is the video explaining it below;
+https://www.loom.com/share/8f53b84cc9b64a6daeff3b2ee5196eca
+
 
 
 
